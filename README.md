@@ -15,6 +15,13 @@ To write a program to predict the marks scored by a student using the simple lin
 5. Finally get the mse,mae and rmse values.
 
 ## Program:
+```
+/*
+Program to implement simple linear regression model for predicting the marks scored.
+Developed by: Don Bosco Blaise A
+RegisterNumber: 212221040045
+*/
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -49,6 +56,7 @@ mae=mean_absolute_error(Y_test,Y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
+```
 
 ## Output:
 ![Screenshot (190)](https://github.com/DonBoscoBlaiseA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/140850829/86cba780-9e56-445e-a6a1-2aba780a433b)
