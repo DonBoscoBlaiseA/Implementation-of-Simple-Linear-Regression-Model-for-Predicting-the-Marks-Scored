@@ -44,6 +44,10 @@ Y_pred=regressor.predict(X_test)
 #displaying predicted values
 Y_pred
 Y_test
+```
+
+
+```
 plt.scatter(X_train,Y_train,color="orange")
 plt.plot(X_train,regressor.predict(X_train),color="red")
 plt.title("Hours vs Scores(Training Set)")
