@@ -72,9 +72,11 @@ print('RMSE = ',rmse)
 ![Screenshot (197)](https://github.com/DonBoscoBlaiseA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/140850829/c60c5b8c-dde4-4145-b056-6e7a7697e79e)
 ![Screenshot (198)](https://github.com/DonBoscoBlaiseA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/140850829/d267bc2a-8d59-469b-99b2-8e22ad46d2cf)
 ![Screenshot (199)](https://github.com/DonBoscoBlaiseA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/140850829/1d81dc59-31f2-4202-9a01-28ef9cd364f5)
+```
 
 
 
 
+```
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
