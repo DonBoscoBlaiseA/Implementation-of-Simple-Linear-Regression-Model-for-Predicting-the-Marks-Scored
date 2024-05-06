@@ -50,11 +50,9 @@ plt.title("Hours vs Scores(Training Set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
+
 mse=mean_squared_error(Y_test,Y_pred)
 print('MSE = ',mse)
-```
-
-```
 mae=mean_absolute_error(Y_test,Y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
@@ -62,9 +60,9 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/140850829/86cba780-9e56-445e-a6a1-2aba780a433b.png" width="600">
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/140850829/e93e90d2-b242-47cc-b232-8bf85c688a29.png" width="600">
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/140850829/70f32fef-5fb8-43a8-b5b5-f08ef5e86665.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/140850829/86cba780-9e56-445e-a6a1-2aba780a433b.png" width="400">
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/140850829/e93e90d2-b242-47cc-b232-8bf85c688a29.png" width="400">
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/140850829/70f32fef-5fb8-43a8-b5b5-f08ef5e86665.png" width="400">
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/140850829/4f3f0684-1a85-47de-8b1f-3a6440690157.png" width="600">
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/140850829/69957f4a-47e4-4f4e-84ee-7bcfbd85c438.png" width="600">
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/140850829/e13dbd8c-8d65-46ee-ad51-7448d8ab6caf.png" width="600">
